@@ -1,0 +1,44 @@
+# ==============================
+# .NET / C# / Blazor
+# ==============================
+
+# Build results
+bin/
+obj/
+publish/
+
+# Rider / VS / VS Code
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET / Blazor
+wwwroot/_framework/
+wwwroot/css/
+wwwroot/js/
+wwwroot/lib/
+
+# Dotnet publish / temporary
+*.dll
+*.pdb
+*.exe
+*.mdb
+*.log
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Secrets / config
+appsettings.Development.json
+appsettings.local.json
+
+
