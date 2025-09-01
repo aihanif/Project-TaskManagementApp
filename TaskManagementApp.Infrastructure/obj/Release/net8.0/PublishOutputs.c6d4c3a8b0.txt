@@ -1,0 +1,7 @@
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\backup latest ok 20250901 part 2\TaskManagementApp\publish\TaskManagementApp.Infrastructure.dll
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\backup latest ok 20250901 part 2\TaskManagementApp\publish\TaskManagementApp.Infrastructure.deps.json
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\backup latest ok 20250901 part 2\TaskManagementApp\publish\TaskManagementApp.Infrastructure.pdb
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\backup latest ok 20250901 part 2\TaskManagementApp\publish\TaskManagementApp.Application.dll
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\backup latest ok 20250901 part 2\TaskManagementApp\publish\TaskManagementApp.Domain.dll
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\backup latest ok 20250901 part 2\TaskManagementApp\publish\TaskManagementApp.Domain.pdb
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\backup latest ok 20250901 part 2\TaskManagementApp\publish\TaskManagementApp.Application.pdb

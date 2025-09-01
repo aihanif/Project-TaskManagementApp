@@ -1,0 +1,93 @@
+@page "/tasks"
+@using TaskManagementApp.Application.Services
+@using TaskManagementApp.Domain.Entities
+@using TaskManagementApp.UI.Components
+@inject TaskService TaskService
+
+<h3>Task List</h3>
+
+<AddTaskForm OnTaskAdded="LoadTasks" />
+
+<div class="btn-group mb-3">
+    <button class="btn btn-outline-secondary" @onclick="@(() => Filter = "All")">All</button>
+    <button class="btn btn-outline-secondary" @onclick="@(() => Filter = "Pending")">Pending</button>
+    <button class="btn btn-outline-secondary" @onclick="@(() => Filter = "Completed")">Completed</button>
+</div>
+
+@if (tasks == null)
+{
+    <p>Loading...</p>
+}
+else if (!tasks.Any())
+{
+    <p>No tasks yet.</p>
+}
+else
+{
+    <ul class="list-group">
+    
+
+        @foreach (var task in tasksFiltered)
+        {
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <span style="@(task.is_complete ? "text-decoration: line-through;" : "")">
+                    @task.Title
+                </span>
+                
+                <div>
+                    <button class="btn btn-success btn-sm me-2" @onclick="@(() => ToggleTask(task.Id))">
+                        @(task.is_complete ? "Undo" : "Complete")
+                    </button>
+                    <button class="btn btn-danger btn-sm" @onclick="@(() => DeleteTask(task.Id))">Delete</button>
+                </div>
+            </li>
+        }
+
+
+
+    </ul>
+}
+
+
+@using System.Text.Json
+@inject IJSRuntime JS
+@code {
+    private List<TaskItem> tasks = new();
+    private string Filter = "All";
+
+    
+
+    private IEnumerable<TaskItem> tasksFiltered =>
+        Filter == "All" ? tasks :
+        Filter == "Completed" ? tasks.Where(t => t.is_complete) :
+        tasks.Where(t => !t.is_complete);
+
+    protected override async Task OnInitializedAsync() => await LoadTasks();
+
+    private async Task LoadTasks()
+    {
+        tasks = await TaskService.GetTasks();
+        StateHasChanged();
+
+         // Debug
+        foreach (var t in tasks)
+        {
+            await JS.InvokeVoidAsync("console.log", $"Task {t.Id}: {t.Title}, IsCompleted: {t.is_complete}, created_at: {t.created_at}");
+        }
+    }
+
+    
+
+    private async Task DeleteTask(int id)
+    {
+        await TaskService.DeleteTask(id);
+        await LoadTasks();
+    }
+
+    private async Task ToggleTask(int id)
+    {
+        await TaskService.ToggleComplete(id);
+        await LoadTasks();
+    }
+
+}

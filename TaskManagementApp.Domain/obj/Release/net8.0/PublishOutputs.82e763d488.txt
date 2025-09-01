@@ -1,0 +1,3 @@
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\publish\TaskManagementApp.Domain.dll
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\publish\TaskManagementApp.Domain.deps.json
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\publish\TaskManagementApp.Domain.pdb

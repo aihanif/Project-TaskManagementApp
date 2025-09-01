@@ -1,0 +1,24 @@
+@using TaskManagementApp.Application.Services
+@using TaskManagementApp.Domain.Entities
+@inject TaskService TaskService
+
+<div class="mb-3">
+    <input type="text" class="form-control" placeholder="New Task" @bind="newTaskTitle" />
+    <button class="btn btn-primary mt-2" @onclick="@AddTask">Add Task</button>
+</div>
+
+@code {
+    private string newTaskTitle = "";
+
+    private async Task AddTask()
+    {
+        if (!string.IsNullOrWhiteSpace(newTaskTitle))
+        {
+            await TaskService.AddTask(new TaskItem { Title = newTaskTitle });
+            newTaskTitle = "";
+            await OnTaskAdded.InvokeAsync();
+        }
+    }
+
+    [Parameter] public EventCallback OnTaskAdded { get; set; }
+}

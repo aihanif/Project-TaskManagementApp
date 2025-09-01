@@ -1,0 +1,7 @@
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Release\net8.0\publish\TaskManagementApp.Infrastructure.dll
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Release\net8.0\publish\TaskManagementApp.Infrastructure.deps.json
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Release\net8.0\publish\TaskManagementApp.Infrastructure.pdb
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Release\net8.0\publish\TaskManagementApp.Application.dll
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Release\net8.0\publish\TaskManagementApp.Domain.dll
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Release\net8.0\publish\TaskManagementApp.Domain.pdb
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Infrastructure\bin\Release\net8.0\publish\TaskManagementApp.Application.pdb

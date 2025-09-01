@@ -1,0 +1,16 @@
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\bin\Release\net8.0\win-x64\TaskManagementApp.Application.deps.json
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\bin\Release\net8.0\win-x64\TaskManagementApp.Application.dll
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\bin\Release\net8.0\win-x64\TaskManagementApp.Application.pdb
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\bin\Release\net8.0\win-x64\TaskManagementApp.Domain.dll
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\bin\Release\net8.0\win-x64\TaskManagementApp.Domain.pdb
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\TaskManagementApp.Application.csproj.AssemblyReference.cache
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\TaskManagementApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\TaskManagementApp.Application.AssemblyInfoInputs.cache
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\TaskManagementApp.Application.AssemblyInfo.cs
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\TaskManagementApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\TaskManagementApp.Application.sourcelink.json
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\TaskMana.4DA97E92.Up2Date
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\TaskManagementApp.Application.dll
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\refint\TaskManagementApp.Application.dll
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\TaskManagementApp.Application.pdb
+C:\Users\hanif\OneDrive\Desktop\DIGITAL LEADERSHIP\Github-aihanif\Project-Task-Management\TaskManagementApp\TaskManagementApp.Application\obj\Release\net8.0\win-x64\ref\TaskManagementApp.Application.dll

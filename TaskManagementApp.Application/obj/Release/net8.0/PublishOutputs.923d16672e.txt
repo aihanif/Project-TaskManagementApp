@@ -1,0 +1,5 @@
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\TaskManagementApp\TaskManagementApp.Application\bin\Release\net8.0\publish\TaskManagementApp.Application.dll
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\TaskManagementApp\TaskManagementApp.Application\bin\Release\net8.0\publish\TaskManagementApp.Application.deps.json
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\TaskManagementApp\TaskManagementApp.Application\bin\Release\net8.0\publish\TaskManagementApp.Application.pdb
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\TaskManagementApp\TaskManagementApp.Application\bin\Release\net8.0\publish\TaskManagementApp.Domain.dll
+C:\Users\hanif\OneDrive\Desktop\Front-End-Developer-Task-Management-Local\TaskManagementApp\TaskManagementApp.Application\bin\Release\net8.0\publish\TaskManagementApp.Domain.pdb
