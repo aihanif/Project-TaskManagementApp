@@ -34,6 +34,8 @@ dotnet clean
 dotnet build
 dotnet run
 
+```bash
+
 ### 3. Project Structure
 <img width="667" height="302" alt="image" src="https://github.com/user-attachments/assets/75dc459d-6b2b-499d-8c93-2b6fd6dd1072" />
 
@@ -70,3 +72,4 @@ cd TaskManagementApp
 1)For GitHub Pages deployment, only frontend (wwwroot) can be hosted. Backend PHP must be on a PHP-enabled server.
 2)Make sure to adjust <base href="/TaskManagementApp/" /> in index.html if deploying to GitHub Pages.
 if in Local can adjust to <base href="/" /> in index.html
+
