@@ -3,6 +3,7 @@
 **TaskManagementApp** is a simple **Task Management Application** built using **Blazor WebAssembly** for the frontend and **PHP + MySQL** for the backend API.  
 
 It allows users to manage their daily tasks in a simple and efficient way.
+<img width="1903" height="945" alt="image" src="https://github.com/user-attachments/assets/86092fc7-a979-435d-b858-41c885db8105" />
 
 ---
 ## Purpose
@@ -13,7 +14,6 @@ The purpose of this application is to:
 - **Add new tasks quickly** – Input tasks without complex setup.
 - **Delete tasks** – Remove tasks that are no longer needed.
 - **Learn Blazor & Fullstack concepts** – Demonstrates a clean architecture setup with Blazor, C#, and PHP backend.
-
 ---
 ## Features
 
@@ -56,9 +56,10 @@ dotnet run
 
 ---
 ### 7. Clone the repository
+```bash
 git clone https://github.com/aihanif/TaskManagementApp.git
 cd TaskManagementApp
-
+```
 ---
 ### 8. Build & Publish Frontend
 - cd TaskManagementApp.UI
@@ -69,8 +70,9 @@ cd TaskManagementApp
 
 ---
 ### 9. Notes
-1)For GitHub Pages deployment, only frontend (wwwroot) can be hosted. Backend PHP must be on a PHP-enabled server.
-2)Make sure to adjust <base href="/TaskManagementApp/" /> in index.html if deploying to GitHub Pages.
+- For GitHub Pages deployment, only frontend (wwwroot) can be hosted. Backend PHP must be on a PHP-enabled server.
+- Make sure to adjust <base href="/TaskManagementApp/" /> in index.html if deploying to GitHub Pages.
 if in Local can adjust to <base href="/" /> in index.html
+
 
 
